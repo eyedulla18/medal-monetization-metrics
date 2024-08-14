@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/medal-monetization-metrics/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/medal-monetization-metrics/static/js/main.b46ff434.chunk.js",
-    "main.js.map": "/medal-monetization-metrics/static/js/main.b46ff434.chunk.js.map",
-    "runtime~main.js": "/medal-monetization-metrics/static/js/runtime~main.7529ad1f.js",
-    "runtime~main.js.map": "/medal-monetization-metrics/static/js/runtime~main.7529ad1f.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/medal-monetization-metrics/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/medal-monetization-metrics/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/medal-monetization-metrics/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/medal-monetization-metrics/static/js/3.a29efab2.chunk.js.map",
+    "main.js": "/medal-monetization-metrics/static/js/main.619577c2.chunk.js",
+    "main.js.map": "/medal-monetization-metrics/static/js/main.619577c2.chunk.js.map",
+    "runtime~main.js": "/medal-monetization-metrics/static/js/runtime~main.0ff0683b.js",
+    "runtime~main.js.map": "/medal-monetization-metrics/static/js/runtime~main.0ff0683b.js.map",
+    "static/js/2.75581ce3.chunk.js": "/medal-monetization-metrics/static/js/2.75581ce3.chunk.js",
+    "static/js/2.75581ce3.chunk.js.map": "/medal-monetization-metrics/static/js/2.75581ce3.chunk.js.map",
+    "static/js/3.534aeb0e.chunk.js": "/medal-monetization-metrics/static/js/3.534aeb0e.chunk.js",
+    "static/js/3.534aeb0e.chunk.js.map": "/medal-monetization-metrics/static/js/3.534aeb0e.chunk.js.map",
     "index.html": "/medal-monetization-metrics/index.html",
-    "precache-manifest.9ac61e5d7ae3d39a228d0af752a874c5.js": "/medal-monetization-metrics/precache-manifest.9ac61e5d7ae3d39a228d0af752a874c5.js",
+    "precache-manifest.3cbc5670570a0ebc7bcb1034caecb8f2.js": "/medal-monetization-metrics/precache-manifest.3cbc5670570a0ebc7bcb1034caecb8f2.js",
     "service-worker.js": "/medal-monetization-metrics/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/medal-monetization-metrics/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/medal-monetization-metrics/static/media/logo.06e73328.svg"
+    "static/css/main.435d5fe5.chunk.css.map": "/medal-monetization-metrics/static/css/main.435d5fe5.chunk.css.map"
   }
 }

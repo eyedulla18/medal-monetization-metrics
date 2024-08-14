@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/medal-monetization-metrics/precache-manifest.9ac61e5d7ae3d39a228d0af752a874c5.js"
+  "/medal-monetization-metrics/precache-manifest.3cbc5670570a0ebc7bcb1034caecb8f2.js"
 );
 
 self.addEventListener('message', (event) => {
